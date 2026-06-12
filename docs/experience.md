@@ -36,7 +36,7 @@ CHECKLIST FOR THIS PAGE:
 
 ➢ Managed large-scale household surveys (5,000+ households) on socio-economic and water insecurity factors and climate risk and resilience projects. Successfully designed the data collection tools for SurveyCTO data collection, Trained enumerators, piloted and supervised data collection and managed the Survey CTO data platform
 ➢Developed annual project workplans programs and project budget.
-➢Conducted FGDs and KIIs in Turkana County on climate risk and community resilience, to supplement the household’s data
+➢Conducted FGDs and KIIs in Turkana County on climate risk and community resilience, to supplement the household’s data.
 ➢Analysed the household’s data, prepared research outputs, and co-authored study reports and disseminated findings in different forums.
 ➢ Developed personal research on the Impact of Flooding on water security in Turkana Central: Analysed satellite images to map flood zones and water resources and population at risk of flooding disruption. The paper is on review for publication.
 
