@@ -10,7 +10,7 @@
 site_name: "Cheruiyot Buses Kipngéno - Geospatial Portfolio"
 site_description: "Portfolio of CHERUIYOT BUSES KIPNGENO— GIS, Remote Sensing, GEOAI, Spatial Data Science and Machine Learning"
 site_author: "CHERUIYOT BUSES KIPNGENO"
-After your site is live, uncomment and set this to your actual GitHub Pages URL:
+#After your site is live, uncomment and set this to your actual GitHub Pages URL:
 site_url: 'https://github.com/cheubuses/cheubuses.github.io/'
 
 theme:
@@ -91,3 +91,4 @@ nav:
   - Publications: publications.md
   - Experience: experience.md
   - Contact: contact.md
+  - Resources : resources.md
